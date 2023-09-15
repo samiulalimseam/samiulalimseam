@@ -31,6 +31,9 @@
 <a href="https://codeforces.com/profile/samuraizeee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="samuraizeee" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/samiulalimseam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samiulalimseam/" height="30" width="40" /></a>
 </p>
+<p>
+Code stats - Last 14 Days
+</p>
 <img src="https://github.com/samiulalimseam/samiulalimseam/assets/69821457/091976e2-369e-4214-88cd-3636a81f7763" /> 
 
 
