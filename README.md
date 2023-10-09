@@ -34,7 +34,8 @@
 <p>
 Code stats - Last 14 Days
 </p>
-<img src="https://github.com/samiulalimseam/samiulalimseam/assets/69821457/091976e2-369e-4214-88cd-3636a81f7763" /> 
+![image](https://github.com/samiulalimseam/samiulalimseam/assets/69821457/9156194e-c95d-43a9-afb5-cc4458baa6d5)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
