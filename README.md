@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samiulalimseam&label=Profile%20views&color=0e75b6&style=flat" alt="samiulalimseam" /> </p>
 
-- 🔭 I’m currently working on **prompt Engineering**
+- 🔭 I’m currently working on **Shopify Engineering**
 
-- 🌱 I’m currently learning **Cross platform development**
+- 🌱 I’m currently learning **Cross-platform development**
 
 - 👯 I’m looking to collaborate on **projects relevant to me**
 
