@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **projects relevant to me**
 
-- 👨‍💻 All of my projects are available at [www.samiul.dev](www.samiul.dev)
+- 👨‍💻 All of my projects are available at [www.samiul.dev](https://samiul.dev/)
 
-- 📝 I regularly write articles on [www.samiul.dev/blogs](www.samiul.dev/blogs)
+- 📝 I regularly write articles on [www.samiul.dev/blogs](https://samiul.dev/blogs)
 
 - 💬 Ask me about **Javascript, Node JS, Remix JS, GraphQL**
 
