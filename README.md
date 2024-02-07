@@ -19,7 +19,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1r_o8IjwwwaiD7FDsCgBGRKRcKGkPSauN/view](https://drive.google.com/file/d/1r_o8IjwwwaiD7FDsCgBGRKRcKGkPSauN/view)
 
-- ⚡ Fun fact **Forgetting where was I!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
